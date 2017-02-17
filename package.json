@@ -1,6 +1,6 @@
 {
   "name": "eslint-formatter-relative-junit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A fork of the junit formatter for eslint, but with relative path",
   "repository": "elao/eslint-formatter-relative-junit",
   "license": "MIT",
