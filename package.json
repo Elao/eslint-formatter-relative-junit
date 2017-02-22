@@ -1,6 +1,6 @@
 {
   "name": "eslint-formatter-relative-junit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A fork of the junit formatter for eslint, but with relative path",
   "repository": "elao/eslint-formatter-relative-junit",
   "license": "MIT",
@@ -8,9 +8,9 @@
     "name": "Elao",
     "url": "http://elao.com"
   },
-  "main": "formatter.js",
+  "main": "index.js",
   "files": [
-    "formatter.js",
+    "index.js",
     "xml-escape.js"
   ],
   "engines": {
